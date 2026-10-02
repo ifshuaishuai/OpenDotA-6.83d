@@ -1,6 +1,4 @@
-#################################################################
-##########       DOTA ALLSTARS v6.83d - OPEN VERSION   ##########
-#################################################################
+## DOTA ALLSTARS v6.83d - OPEN VERSION
 
 All credit goes to IceFrog. 
 Thank you for bringing my friends and me the purest joy of gaming during our youth. 
